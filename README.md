@@ -2,7 +2,7 @@
 
 ## 概要
 
-[Narou.rb](https://github.com/whiteleaf7/narou) の対応サイトは、「webnovel」フォルダ下の YAML ファイルにて追加が可能です。  
+小説サイトのダウンロード＆整形を行える超便利なアプリ [Narou.rb](https://github.com/whiteleaf7/narou) ですが、Narou.rb の対応サイトは「webnovel」フォルダ下の YAML ファイルにて追加が可能です。  
 ここでは、私的に作成した webnovel ファイルを配布しています。
 
 ----
